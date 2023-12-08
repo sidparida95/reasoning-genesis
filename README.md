@@ -149,10 +149,15 @@ DeepQ: https://arxiv.org/abs/2206.01078
 4. Zephyr: https://arxiv.org/abs/2310.16944
 5. FuYu: https://www.adept.ai/blog/fuyu-8b
 6. Mamba: https://arxiv.org/abs/2312.00752
-7. Nous Hermes 13b: https://huggingface.co/TheBloke/Nous-Hermes-13B-GPTQ
+7. OpenHermes 2.5: https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B
 8. LLaMa 2: https://ai.meta.com/llama/
 9. Qwen: https://huggingface.co/Qwen
 10. DeepSeek: https://huggingface.co/deepseek-ai
+11. Intel Neural Chat: https://huggingface.co/Intel/neural-chat-7b-v1-1
+12. Starling LM: https://starling.cs.berkeley.edu
+13. OpenChat 3.5: https://huggingface.co/openchat/openchat_3.5 
+
+
 
 
 # MOH MAYA (GPUs)
