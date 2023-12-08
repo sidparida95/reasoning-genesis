@@ -142,6 +142,24 @@ https://arxiv.org/pdf/2311.16452.pdf
 DeepQ: https://arxiv.org/abs/2206.01078
 7. Bellman Optimality: https://www.analyticsvidhya.com/blog/2021/02/understanding-the-bellman-optimality-equation-in-reinforcement-learning/
 
+# KEY MODELS
+1. Evolved Seeker(TokenBender): https://huggingface.co/TokenBender/evolvedSeeker_1_3
+2. Mistral 7B (Original): https://mistral.ai/news/announcing-mistral-7b/
+3. Mistral 7b 8X: https://x.com/MistralAI/status/1733150512395038967?s=20 
+4. Zephyr: https://arxiv.org/abs/2310.16944
+5. FuYu: https://www.adept.ai/blog/fuyu-8b
+6. Mamba: https://arxiv.org/abs/2312.00752
+7. OpenHermes 2.5: https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B
+8. LLaMa 2: https://ai.meta.com/llama/
+9. Qwen: https://huggingface.co/Qwen
+10. DeepSeek: https://huggingface.co/deepseek-ai
+11. Intel Neural Chat: https://huggingface.co/Intel/neural-chat-7b-v1-1
+12. Starling LM: https://starling.cs.berkeley.edu
+13. OpenChat 3.5: https://huggingface.co/openchat/openchat_3.5 
+
+
+
+
 # MOH MAYA (GPUs)
 1. vast.ai
 2. runpod.io
